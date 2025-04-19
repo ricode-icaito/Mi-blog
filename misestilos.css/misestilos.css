@@ -1,0 +1,27 @@
+h1
+{
+	font-size:50px;
+	font-family:seans-serif;
+	font-weight:bold;
+}
+
+h2
+{
+	font-size:25px;
+}
+
+header,section,footer,aside,nav,article,hgroup
+{
+	border:2px solid blue;
+	display: block;
+}
+
+body
+{
+	text-align: center;
+}
+
+div
+{
+	background: gray;
+}
